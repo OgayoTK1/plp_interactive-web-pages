@@ -1,5 +1,4 @@
-Interactive Web Page Assignment
-Overview
+**Overview**
 This project is a solution for the Interactive Web Pages with JavaScript assignment. It creates a dynamic, user-friendly web page featuring a light/dark mode toggle, a counter game, and a form with real-time validation. The application uses HTML, CSS, and JavaScript to demonstrate event handling, DOM manipulation, and form validation techniques.
 Features
 1. Light/Dark Mode Toggle
